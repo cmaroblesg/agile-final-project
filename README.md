@@ -10,8 +10,8 @@
 - [X] Move the remaining issues into the Product Backlog. 
 - [X] Conduct a Backlog Refinement meeting and rank the Product Backlog so that the stories match the requirements above in the order: 1, 2, 3, 4, 9, 10, 5, & 6. 
 - [ ] Update the top 5 stories in the Product Backlog with acceptance criteria following the Gherkin "Given... When... Then..." syntax. 
-- [ ] Create a "technical debt" label. 
-- [ ] Add labels to all the stories in the Product Backlog of either "enhancement" or "technical debt". 
+- [X] Create a "technical debt" label. 
+- [X] Add labels to all the stories in the Product Backlog of either "enhancement" or "technical debt". 
 - [ ] Create a sprint milestone with a duration of 2 weeks, with the name "Sprint 1" in the title, and a sprint goal in the description. 
 - [ ] Conduct a Sprint Planning meeting. Add the top 4 stories to the sprint by assigning them to the sprint milestone. Assign story points estimates.  Move these 4 stories to the Sprint Backlog. 
 - [ ] Simulate a sprint by assigning the top story to yourself. Then move this story to the In Progress pipeline. 
